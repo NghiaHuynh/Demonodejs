@@ -8,3 +8,4 @@ function tinhtong(a,b){
 var x = tinhtong(3,5);
 
 console.log("kq: " + x);
+
